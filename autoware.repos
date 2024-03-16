@@ -44,7 +44,7 @@ repositories:
   universe/external/muSSP:
     type: git
     url: https://github.com/tier4/muSSP.git
-    version: c79e98fd5e658f4f90c06d93472faa977bc873b9c
+    version: c79e98fd5e658f4f90c06d93472faa977bc873b9
   universe/external/ndt_omp:
     type: git
     url: https://github.com/tier4/ndt_omp.git
@@ -99,7 +99,7 @@ repositories:
   sensor_kit/external/awsim_sensor_kit_launch: # TODO: Integrate into sample_sensor_kit_launch
     type: git
     url: https://github.com/RobotecAI/awsim_sensor_kit_launch.git
-    version: c698f24a2a0b5dccc8e8b15e8628ae58bcdabb4bc
+    version: c698f24a2a0b5dccc8e8b15e8628ae58bcdabb4b
   # vehicle
   vehicle/sample_vehicle_launch:
     type: git
